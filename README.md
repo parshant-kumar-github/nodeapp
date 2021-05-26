@@ -12,7 +12,7 @@ node index.js
 ```
 npm start
 ```
-## or 
+or 
 ```
 nodemon index.js
 ```
