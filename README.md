@@ -1,23 +1,18 @@
 # Node App
 
-An in-depth paragraph about your project and overview of use.
-
 ### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
 ```
-code blocks for commands
+npm install
 ```
-
-## Help
-
-Any advise for common problems or issues.
+### start
 ```
-command to run if program contains helper info
+node index.js
+```
+### dev start 
+```
+npm start
+```
+## or 
+```
+nodemon index.js
 ```
